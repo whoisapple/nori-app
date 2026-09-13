@@ -2,6 +2,9 @@
 
 뉴스를 이슈 단위로 모아 읽고, 오늘의 브리핑으로 들을 수 있는 모바일 앱입니다.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/034cd9df-fde0-432b-b041-c0dd40076fac" />
+
+
 ## 주요 기능
 
 - 여러 매체의 보도를 이슈별 카드로 모아 탐색
